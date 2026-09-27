@@ -1,0 +1,16 @@
+[
+  {"id":1,"name":"Sneakers","slug":"sneakers","department":"Calzado","image":"/products/cloudrunner.svg","count":4},
+  {"id":2,"name":"Running","slug":"running","department":"Calzado","image":"/products/cloudrunner.svg","count":2},
+  {"id":3,"name":"Zapatillas casuales","slug":"zapatillas-casuales","department":"Calzado","image":"/products/cloudrunner.svg","count":4},
+  {"id":4,"name":"Botines","slug":"botines","department":"Calzado","image":"/products/cloudrunner.svg","count":1},
+  {"id":5,"name":"Sandalias","slug":"sandalias","department":"Calzado","image":"/products/cloudrunner.svg","count":1},
+  {"id":6,"name":"Polos","slug":"polos","department":"Ropa","image":"/products/hoodie.svg","count":2},
+  {"id":7,"name":"Camisetas","slug":"camisetas","department":"Ropa","image":"/products/hoodie.svg","count":1},
+  {"id":8,"name":"Camisas","slug":"camisas","department":"Ropa","image":"/products/hoodie.svg","count":1},
+  {"id":9,"name":"Hoodies","slug":"hoodies","department":"Ropa","image":"/products/hoodie.svg","count":2},
+  {"id":10,"name":"Casacas","slug":"casacas","department":"Ropa","image":"/products/hoodie.svg","count":2},
+  {"id":11,"name":"Pantalones","slug":"pantalones","department":"Ropa","image":"/products/hoodie.svg","count":1},
+  {"id":12,"name":"Jeans","slug":"jeans","department":"Ropa","image":"/products/hoodie.svg","count":1},
+  {"id":13,"name":"Shorts","slug":"shorts","department":"Ropa","image":"/products/hoodie.svg","count":1},
+  {"id":14,"name":"Ropa deportiva","slug":"ropa-deportiva","department":"Ropa","image":"/products/hoodie.svg","count":1}
+]

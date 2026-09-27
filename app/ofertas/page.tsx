@@ -1,0 +1,2 @@
+import Navbar from "@/src/components/layout/navbar"; import Footer from "@/src/components/layout/footer"; import CatalogPage, { type CatalogSearchParams } from "@/src/components/products/catalog-page";
+export default function OffersPage({ searchParams }: { searchParams: CatalogSearchParams }) { return <><Navbar /><CatalogPage title="Últimas oportunidades" description="Piezas seleccionadas, ahora a un precio especial." searchParams={searchParams} baseFilters={{ discounted: true }} /><Footer /></>; }

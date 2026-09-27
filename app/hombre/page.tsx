@@ -1,0 +1,2 @@
+import Navbar from "@/src/components/layout/navbar"; import Footer from "@/src/components/layout/footer"; import CatalogPage, { type CatalogSearchParams } from "@/src/components/products/catalog-page";
+export default function MenPage({ searchParams }: { searchParams: CatalogSearchParams }) { return <><Navbar /><CatalogPage title="Hombre" description="Siluetas versátiles y esenciales para todos los días." searchParams={searchParams} baseFilters={{ gender: "Hombre" }} showGender={false} /><Footer /></>; }

@@ -1,0 +1,2 @@
+import Navbar from "@/src/components/layout/navbar"; import Footer from "@/src/components/layout/footer"; import CatalogPage, { type CatalogSearchParams } from "@/src/components/products/catalog-page";
+export default function ShoesPage({ searchParams }: { searchParams: CatalogSearchParams }) { return <><Navbar /><CatalogPage title="Calzado" description="Modelos para la ciudad, el movimiento y todo lo que viene." searchParams={searchParams} baseFilters={{ department: "Calzado" }} showDepartment={false} /><Footer /></>; }

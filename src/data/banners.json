@@ -1,0 +1,26 @@
+[
+  {
+    "id": "drop-02",
+    "eyebrow": "NÓRD STUDIO / DROP 02 — 2026",
+    "kicker": "NUEVA TEMPORADA",
+    "title": "Paso firme.",
+    "emphasis": "Estilo propio.",
+    "description": "Sneakers y esenciales urbanos para acompañar cada versión de tu día.",
+    "primaryCta": { "label": "EXPLORAR CALZADO", "href": "/calzado" },
+    "secondaryCta": { "label": "VER COLECCIÓN", "href": "/ropa" },
+    "image": "/banners/nord-drop-02-hero.png",
+    "imageAlt": "Modelo con ropa urbana y sneakers en un entorno arquitectónico contemporáneo",
+    "note": "ROPA & CALZADO CONTEMPORÁNEO"
+  },
+  {
+    "id": "everyday-uniform",
+    "eyebrow": "CAPAS PARA LLEVAR A TU MANERA",
+    "kicker": "NÓRD STUDIO — EVERYDAY UNIFORM",
+    "title": "El uniforme",
+    "emphasis": "es tuyo.",
+    "description": "Hoodies, denim y esenciales que combinan con tu propio ritmo.",
+    "primaryCta": { "label": "DESCUBRIR ROPA", "href": "/ropa" },
+    "image": "/banners/nord-everyday-uniform.png",
+    "imageAlt": "Modelo con hoodie de corte relajado y pantalones urbanos"
+  }
+]

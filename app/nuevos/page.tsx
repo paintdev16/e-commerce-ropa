@@ -1,0 +1,2 @@
+import Navbar from "@/src/components/layout/navbar"; import Footer from "@/src/components/layout/footer"; import CatalogPage, { type CatalogSearchParams } from "@/src/components/products/catalog-page";
+export default function NewArrivalsPage({ searchParams }: { searchParams: CatalogSearchParams }) { return <><Navbar /><CatalogPage title="Recién llegados" description="Las últimas piezas en entrar al estudio." searchParams={searchParams} baseFilters={{ newOnly: true }} /><Footer /></>; }

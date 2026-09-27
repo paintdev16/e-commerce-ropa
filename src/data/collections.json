@@ -1,0 +1,14 @@
+[
+  {"id":1,"name":"Streetwear","slug":"streetwear","description":"Capas y siluetas urbanas para el ritmo de la ciudad.","image":"/products/hoodie.svg"},
+  {"id":2,"name":"Performance Running","slug":"performance-running","description":"Equipo técnico para sumar kilómetros con comodidad.","image":"/products/cloudrunner.svg"},
+  {"id":3,"name":"Terrace","slug":"terrace","description":"Referencias deportivas clásicas, dentro y fuera de la cancha.","image":"/products/cloudrunner.svg"},
+  {"id":4,"name":"Court Icons","slug":"court-icons","description":"Diseños de cancha que encontraron su lugar en la calle.","image":"/products/cloudrunner.svg"},
+  {"id":5,"name":"Everyday Uniform","slug":"everyday-uniform","description":"Prendas esenciales, fáciles de combinar y repetir.","image":"/products/hoodie.svg"},
+  {"id":6,"name":"Heritage Running","slug":"heritage-running","description":"Clásicos de running con herencia y construcción contemporánea.","image":"/products/cloudrunner.svg"},
+  {"id":7,"name":"Denim Classics","slug":"denim-classics","description":"Denim atemporal para usarlo a tu manera.","image":"/products/hoodie.svg"},
+  {"id":8,"name":"Summer Essentials","slug":"summer-essentials","description":"Calzado ligero para los días de sol.","image":"/products/cloudrunner.svg"},
+  {"id":9,"name":"Heritage Canvas","slug":"heritage-canvas","description":"Clásicos de lona con historia y un estilo propio.","image":"/products/cloudrunner.svg"},
+  {"id":10,"name":"Retro Runner","slug":"retro-runner","description":"Siluetas deportivas de archivo listas para la ciudad.","image":"/products/cloudrunner.svg"},
+  {"id":11,"name":"Outdoor","slug":"outdoor","description":"Calzado preparado para salir de la rutina.","image":"/products/cloudrunner.svg"},
+  {"id":12,"name":"Performance Training","slug":"performance-training","description":"Ropa técnica para moverte y entrenar con libertad.","image":"/products/hoodie.svg"}
+]

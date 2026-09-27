@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function ProductNotFound(){return <main className="grid min-h-[70vh] place-items-center px-6 text-center"><div><p className="eyebrow">404  /  NO ENCONTRADO</p><h1 className="mt-4 text-4xl tracking-tight">Esta pieza ya no está aquí.</h1><p className="mt-3 text-sm text-[#777770]">Quizá encuentres algo que te guste en la tienda.</p><Link href="/productos" className="mt-7 inline-block bg-[#24241f] px-6 py-3 text-xs text-white">IR A LA TIENDA ↗</Link></div></main>}

@@ -1,0 +1,2 @@
+import Navbar from "@/src/components/layout/navbar"; import Footer from "@/src/components/layout/footer"; import CatalogPage, { type CatalogSearchParams } from "@/src/components/products/catalog-page";
+export default function WomenPage({ searchParams }: { searchParams: CatalogSearchParams }) { return <><Navbar /><CatalogPage title="Mujer" description="Una selección contemporánea con libertad de movimiento." searchParams={searchParams} baseFilters={{ gender: "Mujer" }} showGender={false} /><Footer /></>; }

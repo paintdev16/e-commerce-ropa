@@ -1,0 +1,2 @@
+import Navbar from "@/src/components/layout/navbar"; import Footer from "@/src/components/layout/footer"; import CatalogPage, { type CatalogSearchParams } from "@/src/components/products/catalog-page";
+export default function ClothesPage({ searchParams }: { searchParams: CatalogSearchParams }) { return <><Navbar /><CatalogPage title="Ropa" description="Capas ligeras, texturas honestas y básicos bien hechos." searchParams={searchParams} baseFilters={{ department: "Ropa" }} showDepartment={false} /><Footer /></>; }
